@@ -1,3 +1,23 @@
+grunt/node_modules
+grunt/hola/bower_components
+grunt/build
+grunt/deploy
+
+yeoman/hola/node_modules
+yeoman/hola/bower_components
+yeoman/build
+yeoman/deploy
+yeoman/test
+yeoman/.tmp
+yeoman/tareas/node_modules
+yeoman/tareas/bower_components
+yeoman/tareas/.tmp
+
+prototipo-ng/node_modules
+prototipo-ng/bower_components
+prototipo-ng/.tmp
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -45,3 +65,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
